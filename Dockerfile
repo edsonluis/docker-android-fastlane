@@ -1,4 +1,4 @@
-FROM beevelop/android:v25.2.3
+FROM beevelop/android:latest
 
 LABEL maintainer="contato@brunobastosg.io"
 
